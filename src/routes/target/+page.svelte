@@ -79,7 +79,7 @@
 			<a href="/reason" class="link-main mr-4">
 				<div class="link-main-underline">
 					<i class="fa-solid fa-arrow-right-long"></i>
-					<span>サーバーメンテナンスの理由</span>
+					<span>メンテナンス理由</span>
 				</div>
 			</a>
 			<a href="/contact" class="link-main">
@@ -96,7 +96,7 @@
 			</a>
 			<a href="/reason" class="mb-2 rounded-xl bg-white p-2">
 				<i class="fa-solid fa-arrow-right-long"></i>
-				<span>サーバーメンテナンスの理由</span>
+				<span>メンテナンス理由</span>
 			</a>
 			<a href="/contact" class="mb-2 rounded-xl bg-white p-2">
 				<i class="fa-solid fa-envelope"></i>
