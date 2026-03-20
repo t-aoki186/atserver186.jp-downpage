@@ -1,0 +1,4 @@
+/* Custom class for square list markers */
+.list-square {
+  list-style-type: square;
+}
