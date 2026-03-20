@@ -15,6 +15,12 @@
 		</p>
 		<hr class="main-hr" />
 		<div class="mx-auto mt-6 hidden sm:flex md:mt-10">
+			<a href="/" class="link-main mr-4">
+				<div class="link-main-underline">
+					<i class="fa-solid fa-house"></i>
+					<span>ホーム</span>
+				</div>
+			</a>
 			<a href="/target" class="link-main mr-4">
 				<div class="link-main-underline">
 					<i class="fa-solid fa-arrow-right-long"></i>
@@ -24,7 +30,7 @@
 			<a href="/reason" class="link-main mr-4">
 				<div class="link-main-underline">
 					<i class="fa-solid fa-arrow-right-long"></i>
-					<span>サーバーメンテナンスの理由</span>
+					<span>メンテナンス理由</span>
 				</div>
 			</a>
 			<a href="/contact" class="link-main">
@@ -35,13 +41,17 @@
 			</a>
 		</div>
 		<div class="mt-6 flex flex-col sm:hidden">
+			<a href="/" class="mb-2 rounded-xl bg-white p-2">
+				<i class="fa-solid fa-house"></i>
+				<span>ホーム</span>
+			</a>
 			<a href="/target" class="mb-2 rounded-xl bg-white p-2">
 				<i class="fa-solid fa-arrow-right-long"></i>
 				<span>対象サービス</span>
 			</a>
 			<a href="/reason" class="mb-2 rounded-xl bg-white p-2">
 				<i class="fa-solid fa-arrow-right-long"></i>
-				<span>サーバーメンテナンスの理由</span>
+				<span>メンテナンス理由</span>
 			</a>
 			<a href="/contact" class="mb-2 rounded-xl bg-white p-2">
 				<i class="fa-solid fa-envelope"></i>

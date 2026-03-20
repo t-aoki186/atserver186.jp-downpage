@@ -4,16 +4,17 @@
 
 <main class="main-container container mx-auto">
 	<div class="flex flex-col justify-center">
-		<h1 class="mx-auto mt-10 mb-6 text-2xl font-semibold md:mb-10 md:text-4xl">メンテナンス理由</h1>
+		<h1 class="mx-auto mt-10 mb-6 text-2xl font-semibold md:mb-10 md:text-4xl">お問い合わせ</h1>
 		<hr class="main-hr" />
 		<p class="mt-6 mb-6 text-lg md:mt-10 md:mb-10 md:text-xl">
-			1.新サービス展開に向けた最適化:現在の構成では安定動作に支障をきたす恐れがあるため、構成の見直しと最適化を行います。
+			メンテナンス中のため、現在お問い合わせフォームはご利用いただけません。<br />
+			復旧まで以下のメールアドレス宛にお問い合わせください。<br />
+			<a href="mailto:84th.tccaoki@gmail.com" class="text-blue-500 hover:underline"
+				>84th.tccaoki[at]gmail.com</a
+			>
 			<br />
-			2.セキュリティ強化:サーバーのアップデート及びパッチ適応を実施し、安全性を高めます。
-			<br />
-			3.ハードウェアの保守:不具合が発生しているHDDの交換を行います。
-			<br />
-			4.清掃:サーバー機器の物理的な清掃を実施します。
+			クリックするとメールソフトが起動します。<br />
+			なお、返信にはお時間をいただく場合がございます。ご了承ください。
 		</p>
 		<hr class="main-hr" />
 		<div class="mx-auto mt-6 hidden sm:flex md:mt-10">

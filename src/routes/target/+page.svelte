@@ -4,7 +4,7 @@
 
 <main class="main-container container mx-auto">
 	<div class="flex flex-col justify-center">
-		<h1 class="mx-auto mb-6 mt-10 text-2xl font-semibold md:mb-10 md:text-4xl">
+		<h1 class="mx-auto mt-10 mb-6 text-2xl font-semibold md:mb-10 md:text-4xl">
 			メンテナンス対象サービス
 		</h1>
 		<hr class="main-hr" />
@@ -76,6 +76,12 @@
 					<span>ホーム</span>
 				</div>
 			</a>
+			<a href="/target" class="link-main mr-4">
+				<div class="link-main-underline">
+					<i class="fa-solid fa-arrow-right-long"></i>
+					<span>対象サービス</span>
+				</div>
+			</a>
 			<a href="/reason" class="link-main mr-4">
 				<div class="link-main-underline">
 					<i class="fa-solid fa-arrow-right-long"></i>
@@ -93,6 +99,10 @@
 			<a href="/" class="mb-2 rounded-xl bg-white p-2">
 				<i class="fa-solid fa-house"></i>
 				<span>ホーム</span>
+			</a>
+			<a href="/target" class="mb-2 rounded-xl bg-white p-2">
+				<i class="fa-solid fa-arrow-right-long"></i>
+				<span>対象サービス</span>
 			</a>
 			<a href="/reason" class="mb-2 rounded-xl bg-white p-2">
 				<i class="fa-solid fa-arrow-right-long"></i>
