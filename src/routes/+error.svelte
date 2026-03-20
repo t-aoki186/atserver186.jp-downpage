@@ -9,9 +9,7 @@
 		</h1>
 		<hr class="main-hr" />
 		<p class="mt-6 mb-6 text-lg md:mt-10 md:mb-10 md:text-xl">
-			現在、当サイトはサーバーメンテナンス中です。<br />復旧は2026年03月21日
-			23時00分を予定しております。<br
-			/>サーバーメンテナンスのためATSERVER関連のすべてのサービスがご利用いただけません。
+			404 Not Found
 		</p>
 		<hr class="main-hr" />
 		<div class="mx-auto mt-6 hidden sm:flex md:mt-10">
