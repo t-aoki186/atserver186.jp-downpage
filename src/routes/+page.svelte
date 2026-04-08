@@ -7,14 +7,15 @@
 		<h1 class="mx-auto mb-6 text-2xl font-semibold md:mb-10 md:text-4xl">
 			ただいまメンテナンス中です
 		</h1>
+		<!--
 		<hr class="main-hr" />
 		<p class="mt-6 mb-6 text-lg md:mt-10 md:mb-10 md:text-xl">
-			現在、当サイトはサーバーメンテナンス中です。<br />復旧は2026年03月21日
-			23時00分を予定しております。<br
-			/>サーバーメンテナンスのためATSERVER関連のすべてのサービスがご利用いただけません。
+			現在システム再構築中ですのでこのサービスはご利用いただけません。
 		</p>
 		<hr class="main-hr" />
+	-->
 		<div class="mx-auto mt-6 hidden sm:flex md:mt-10">
+			<!--
 			<a href="/" class="link-main mr-4">
 				<div class="link-main-underline">
 					<i class="fa-solid fa-house"></i>
@@ -33,7 +34,8 @@
 					<span>メンテナンス理由</span>
 				</div>
 			</a>
-			<a href="/contact" class="link-main">
+			-->
+			<a href="https://atserver186.jp/inquiry" class="link-main">
 				<div class="link-main-underline">
 					<i class="fa-solid fa-envelope"></i>
 					<span>お問い合わせ</span>

@@ -17,10 +17,7 @@
 				<p>- ATSERVER (atserver186.jp)下のすべてのサービス</p>
 			</li>
 			<li class="mb-2 flex items-center">
-				<p>- ATSERVER Developer (moecounter.atserver186.jp)下のすべてのサービス</p>
-			</li>
-			<li class="mb-2 flex items-center">
-				<p>- ATSERVER Blog (blog.atserver186.jp)</p>
+				<p>- ATSERVER Developer (developer.atserver186.jp)下のすべてのサービス</p>
 			</li>
 			<li class="mb-2 flex items-center">
 				<p>- ATSERVER Blog (blog.atserver186.jp)</p>
