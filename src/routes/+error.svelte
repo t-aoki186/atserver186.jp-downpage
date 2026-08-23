@@ -7,13 +7,16 @@
 		<h1 class="mx-auto mb-6 text-2xl font-semibold md:mb-10 md:text-4xl">
 			ただいまメンテナンスまたはサービス開発中です。
 		</h1>
+		<hr class="my-4"/>
+		<h1 class="mx-auto mb-6 text-2xl font-semibold md:mb-10 md:text-4xl">
+			お問い合わせ
+		</h1>
+		<div class="mb-4 rounded-2xl text-center p-4">
+			<p class="text-lg mb-4">以下のメールアドレスにお問い合わせください。</p>
+			<p class="text-2xl">84th.tccaoki[at]gmail.com</p>
+			<p>[at]は@に置き換えてください。</p>
+		</div>
 		<div class="mx-auto mt-6 flex gap-4">
-			<a href="/contact" class="link-main">
-				<div class="link-main-underline">
-					<i class="fa-solid fa-envelope"></i>
-					<span>お問い合わせ</span>
-				</div>
-			</a>
 			<a href="https://atserver186.jp/" class="link-main">
 				<div class="link-main-underline">
 					<i class="fa-solid fa-home"></i>
